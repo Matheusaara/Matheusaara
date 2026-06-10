@@ -1,4 +1,5 @@
 # 👋 Bem-vindo ao meu GitHub!
+![Banner](https://imgur.com/MQdPDCE.png)
 
 > Foco no aprendizado e passo a passo de todos os trilhos dessa jornada.
 
